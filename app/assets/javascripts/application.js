@@ -15,3 +15,11 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
+//= require cable
+//= require custom
+//= require wow
+//= require smoothscroll
+//= require html5shiv
+//= require jquery-2.1.1
+//= require modernizr
+//= require respond.min
